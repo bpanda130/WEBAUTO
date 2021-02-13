@@ -42,6 +42,7 @@ Project Component:
                                 /src/test/resources/cucumber.properties
                                 
 Technologies Used:
+
      1. Selenium WebDriver with Java Language binding
      2. Cucumber 6.x JVM library
      3. WebDriverManager
