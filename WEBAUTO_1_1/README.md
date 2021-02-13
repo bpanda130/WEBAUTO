@@ -1,7 +1,7 @@
 WEBAUTO_1.1 [Selenium WebDriver]+[JDK 1.8]+[Cucumber]+[JUnit]+[Maven]+[Extent Spark Report]
 
-  - This project illustrate design of Hybrid Framework with Page Object Model (POM) with Cucumber BDD & Selenium.
-  - Integrated Core WEB Automation External Library to get all required wrapper Utilities.
+    - This project illustrate design of Hybrid Framework with Page Object Model (POM) with Cucumber BDD & Selenium.
+    - Integrated Core WEB Automation External Library to get all required wrapper Utilities.
   
 Project Component:
 
