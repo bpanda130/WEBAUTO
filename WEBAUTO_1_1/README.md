@@ -5,7 +5,7 @@ WEBAUTO_1.1 [Selenium WebDriver]+[JDK 1.8]+[Cucumber]+[JUnit]+[Maven]+[Extent Sp
   
 Project Component:
 
-    External Library: [CORE WEB AUTO]
+    External Library: [CORE WEB AUTO] (https://github.com/bpanda130/WEBAUTO/tree/main/CORE_WEBAUO_FRAMEWORK)
     
       - Driver Factory Library - Initalize required ThreadLocal WebDriver depends on browser.
       - Component Library      - Provide all required element wrapper methods.
